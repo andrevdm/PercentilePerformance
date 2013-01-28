@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PercentilePerformance", "PercentilePerformance\PercentilePerformance.csproj", "{AC68B0D7-63C3-4E26-B546-9CB4A2EF3C8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PercentilePerformanceTests", "PercentilePerformanceTests\PercentilePerformanceTests.csproj", "{0D54EDD1-E80B-461E-8026-B5E5B66AA33B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{F0236E96-22DA-40CD-A234-9ACC987DCA73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC68B0D7-63C3-4E26-B546-9CB4A2EF3C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC68B0D7-63C3-4E26-B546-9CB4A2EF3C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC68B0D7-63C3-4E26-B546-9CB4A2EF3C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC68B0D7-63C3-4E26-B546-9CB4A2EF3C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D54EDD1-E80B-461E-8026-B5E5B66AA33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D54EDD1-E80B-461E-8026-B5E5B66AA33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D54EDD1-E80B-461E-8026-B5E5B66AA33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D54EDD1-E80B-461E-8026-B5E5B66AA33B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0236E96-22DA-40CD-A234-9ACC987DCA73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0236E96-22DA-40CD-A234-9ACC987DCA73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0236E96-22DA-40CD-A234-9ACC987DCA73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0236E96-22DA-40CD-A234-9ACC987DCA73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

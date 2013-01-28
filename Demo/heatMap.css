@@ -1,0 +1,35 @@
+body
+{
+	font-family: Arial, "MS Trebuchet";
+	font-size: 10px;
+}
+table 
+{ 
+	font-family: Arial, "MS Trebuchet";
+	font-size: 10px;
+	margin: 2px; 
+	border-collapse: collapse; 
+	background-color:#eaeaea
+}
+td, th 
+{
+	margin: 0px;
+	padding: 1px; 
+	border-width: 1px;
+	border: 1px #000000 solid; 
+}
+.heatCol
+{
+	width: 15px;
+}
+.heatCount
+{
+	display: none;
+}
+.percentile
+{
+}
+.boundCol
+{
+	text-align: right;
+}
