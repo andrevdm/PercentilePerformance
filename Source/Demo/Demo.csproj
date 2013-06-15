@@ -46,7 +46,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PercentilePerformance\PercentilePerformance.csproj">
+    <ProjectReference Include="..\Avdm.PercentilePerformance\Avdm.PercentilePerformance.csproj">
       <Project>{ac68b0d7-63c3-4e26-b546-9cb4a2ef3c8d}</Project>
       <Name>PercentilePerformance</Name>
     </ProjectReference>

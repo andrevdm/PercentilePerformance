@@ -1,4 +1,4 @@
-﻿namespace PercentilePerformance
+﻿namespace Avdm.PercentilePerformance
 
 {
     public class PercentileBucket

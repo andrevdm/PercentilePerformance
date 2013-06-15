@@ -1,11 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PercentilePerformance", "PercentilePerformance\PercentilePerformance.csproj", "{AC68B0D7-63C3-4E26-B546-9CB4A2EF3C8D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avdm.PercentilePerformance", "Avdm.PercentilePerformance\Avdm.PercentilePerformance.csproj", "{AC68B0D7-63C3-4E26-B546-9CB4A2EF3C8D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PercentilePerformanceTests", "PercentilePerformanceTests\PercentilePerformanceTests.csproj", "{0D54EDD1-E80B-461E-8026-B5E5B66AA33B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{F0236E96-22DA-40CD-A234-9ACC987DCA73}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D5D8CDC8-B77C-46F8-8EE3-71D219642EAD}"
+	ProjectSection(SolutionItems) = preProject
+		licence.txt = licence.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

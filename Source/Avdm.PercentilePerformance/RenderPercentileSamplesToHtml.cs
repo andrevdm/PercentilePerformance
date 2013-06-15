@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Text;
 
-namespace PercentilePerformance
+namespace Avdm.PercentilePerformance
 {
     public class RenderPercentileSamplesToHtml : RenderPercentile
     {

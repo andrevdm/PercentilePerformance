@@ -1,7 +1,8 @@
 ﻿using System.Linq;
 using System.Collections.Generic;
 using System.Text;
-namespace PercentilePerformance
+
+namespace Avdm.PercentilePerformance
 {
     public class RenderPercentileSamplesToText : RenderPercentile
     {

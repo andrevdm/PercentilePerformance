@@ -45,3 +45,4 @@ StyleCop.Cache
 *.dbmdl
 output/
 TestResults/*
+*.nupkg

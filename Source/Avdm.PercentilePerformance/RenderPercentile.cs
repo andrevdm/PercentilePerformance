@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Globalization;
 using System.Linq;
 
-namespace PercentilePerformance
+namespace Avdm.PercentilePerformance
 {
     public abstract class RenderPercentile
     {

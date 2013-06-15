@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PercentilePerformance
+namespace Avdm.PercentilePerformance
 {
     public class PercentileSample
     {

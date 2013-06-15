@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle( "PercentilePerformance" )]
-[assembly: AssemblyDescription( "" )]
+[assembly: AssemblyTitle( "Avdm.PercentilePerformance" )]
+[assembly: AssemblyDescription( "Percentile performance - track performance stats in a meaningful and efficient manner" )]
 [assembly: AssemblyConfiguration( "" )]
-[assembly: AssemblyCompany( "Microsoft" )]
-[assembly: AssemblyProduct( "PercentilePerformance" )]
-[assembly: AssemblyCopyright( "Copyright © Microsoft 2013" )]
+[assembly: AssemblyCompany( "" )]
+[assembly: AssemblyProduct( "Avdm.PercentilePerformance" )]
+[assembly: AssemblyCopyright( "Copyright © Andre Van Der Merwe 2012" )]
 [assembly: AssemblyTrademark( "" )]
 [assembly: AssemblyCulture( "" )]
 

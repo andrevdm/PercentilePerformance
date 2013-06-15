@@ -6,7 +6,7 @@ using System.Globalization;
 using System.IO;
 using System.Linq;
 
-namespace PercentilePerformance
+namespace Avdm.PercentilePerformance
 {
     public class RenderPercentileSamplesToImage : RenderPercentile
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
+using Avdm.PercentilePerformance;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using PercentilePerformance;
 
 namespace PercentilePerformanceTests
 {

@@ -7,8 +7,8 @@
     <ProjectGuid>{AC68B0D7-63C3-4E26-B546-9CB4A2EF3C8D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PercentilePerformance</RootNamespace>
-    <AssemblyName>PercentilePerformance</AssemblyName>
+    <RootNamespace>Avdm.PercentilePerformance</RootNamespace>
+    <AssemblyName>Avdm.PercentilePerformance</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
